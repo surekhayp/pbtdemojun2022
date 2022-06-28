@@ -1,2 +1,0 @@
-Javascript is a scriping language for the web.
-It has no concept of data types.
