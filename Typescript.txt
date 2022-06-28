@@ -1,0 +1,2 @@
+TS is a scripting langage 
+it is objecte doriented 

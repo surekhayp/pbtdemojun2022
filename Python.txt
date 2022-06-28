@@ -1,0 +1,2 @@
+Python is the most popular generic programming language
+USed for AI and ML
